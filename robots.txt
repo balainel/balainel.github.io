@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://balainel.github.io/sitemap
+Sitemap: https://balainel.github.io/app/sitemap
+Sitemap: https://balainel.github.io/assets/sitemap
+Sitemap: https://balainel.github.io/css/sitemap
+Sitemap: https://balainel.github.io/includes/sitemap
+Sitemap: https://balainel.github.io/item/sitemap
+Sitemap: https://balainel.github.io/src/sitemap
